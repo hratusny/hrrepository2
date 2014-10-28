@@ -1,1 +1,2 @@
 initial text created in myFeatureBranch3
+text changed in myFeatureBranch4
